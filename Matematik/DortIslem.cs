@@ -14,7 +14,7 @@ namespace Matematik
         }
         public void Cikar()
         {
-
+            Console.WriteLine("Cikarma Islemi");
         }
     }
 }

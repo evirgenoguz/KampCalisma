@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampCalisma", "KampCalisma\KampCalisma.csproj", "{F1A90A9D-3D9C-491B-9BDC-3CCF71668764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampCalisma", "KampCalisma\KampCalisma.csproj", "{F1A90A9D-3D9C-491B-9BDC-3CCF71668764}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{A1B74909-0AC7-4B53-857B-1DA9EAB0816F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{A1B74909-0AC7-4B53-857B-1DA9EAB0816F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{54C85F55-0681-4B69-AE89-EFAD15B94876}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{54C85F55-0681-4B69-AE89-EFAD15B94876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{56345272-FAF8-4E2E-8BA1-F8594742B384}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{54C85F55-0681-4B69-AE89-EFAD15B94876}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54C85F55-0681-4B69-AE89-EFAD15B94876}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54C85F55-0681-4B69-AE89-EFAD15B94876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56345272-FAF8-4E2E-8BA1-F8594742B384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56345272-FAF8-4E2E-8BA1-F8594742B384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56345272-FAF8-4E2E-8BA1-F8594742B384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56345272-FAF8-4E2E-8BA1-F8594742B384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
