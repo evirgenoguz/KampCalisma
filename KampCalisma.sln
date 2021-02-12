@@ -27,7 +27,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamaTahtası", "DamaTahtas�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceKavramıDetayli", "InterfaceKavramıDetayli\InterfaceKavramıDetayli.csproj", "{25DCDD1C-C032-46C6-B51A-581CEF25D549}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{2BE0DADD-AD17-4FE4-AE1C-A92BC52639B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "GameProject\GameProject.csproj", "{2BE0DADD-AD17-4FE4-AE1C-A92BC52639B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject2", "GameProject2\GameProject2.csproj", "{A2E413A0-B0E6-4953-89E2-B87D263E23D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{2BE0DADD-AD17-4FE4-AE1C-A92BC52639B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BE0DADD-AD17-4FE4-AE1C-A92BC52639B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BE0DADD-AD17-4FE4-AE1C-A92BC52639B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E413A0-B0E6-4953-89E2-B87D263E23D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E413A0-B0E6-4953-89E2-B87D263E23D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E413A0-B0E6-4953-89E2-B87D263E23D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E413A0-B0E6-4953-89E2-B87D263E23D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
