@@ -29,6 +29,16 @@ Engin Demiroğ un youtube ve kodlama.io üzerinden yaptığı kamptaki kodlar vs
   Today we learned interface in c# and how to use interface in business. This lesson really effective for me ı feel it improving.
   
  6. Gün / 6. Day
+  Bu dersimizde ve sonrasındaki ödevlerimizde sql sorgularını öğrendik w3school konu anlatımı ve egzersizleri ile destekledik.
+  
+  We learned sql query with today's lesson and homeworks after then we did w3school exercises.
+  
+ 7. Gün / 7. Day
+  Bu dersimizde yeni projemize ve verilen ödev ile yeni projemizin yanında kendi projemiz içinde çalışıyor olacağız bundan dolayı artık bu
+  projenin üstüne ekleme yapılmayabilir. Linq öğrendik ve yine ödevlerle tekrarını yaptık.
+  
+  This lesson we started new project also we started another according to homeworks. So we will do 2 project end of the bootcamp by the way ı couldnt commit this repository but 
+  you can check other repositories we contiune from other repositories. (ReCap Project and Final Project)
  
  8. Gün / 8. Day
  
