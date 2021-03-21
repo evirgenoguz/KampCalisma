@@ -39,7 +39,7 @@ namespace Event
         public void Sell(int amount)
         {
             Stock -= amount;
-            Console.WriteLine("Stock Amount : " + Stock);
+            Console.WriteLine(ProductName + " Stock Amount : " + Stock);
         }
         
     }
